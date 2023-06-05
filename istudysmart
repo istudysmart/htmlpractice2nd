@@ -1,1 +1,63 @@
-
+<html>
+    <head>
+        <title>LIFE</title>
+    </head>
+    <body>
+        <h1>Ipads</h1>
+        <p>Ipads are on sale on Apple.Inc</p>
+       <i><b>SHOP NOW</b></i>
+       <p>Wow<br>20<br>Percent<br>Off<br>!!!!</p>
+       <a href="https://www.apple.com/">Go Ahead and Find out</a>
+       <ol>
+           <li>Ipads</li>
+           <li>Computers</li>
+           <li>Phones</li>
+       </ol>
+       <ul>
+           <b><li>Ipads-$20 off!!</li></b>
+           <b><li>Computers-$50 off!!</li></b>
+           <b><li>Phones-$100 off !!</li></b>
+       </ul>
+       <strong>PLS SHOP</strong>
+       <em>VERY GOOD DEALS</em>
+       <nav>
+       <a href="#about">About</a>
+       <a href="#differences">Differnt</a>
+       <a href="#sign up">Sign Up</a>
+       </nav>
+        <h2 id="about">About</h2>
+        <p>
+           Apple is about quality and not only that its about the power 
+           and deals of our products
+        </p>
+        <h2 id="differences">Different</h2>
+        <p>Not only that <mark>it helps people</mark> not worry about the care of their devices.
+             Its all
+            on apple they deal with the stuff all the time.
+        </p>
+        <nav>
+            <a href="#top">Top Of the Page</a>
+        </nav>
+        <p>NAME</p>
+        <h2 id="sign up">Sign Up</h2>
+        <form>
+            <label for="email">Email</label>
+            <input type="email" name="submit" value="example@domain.com"><br>
+            <label for="number">Number</label>
+            <input type="number" value="614000000">
+        </form>
+        <br>
+        <form>
+            <label for="t1">Password</label>
+            <input type="number" name="number" value="12345">
+        </form>
+        <form>
+            <label for="dropdown">
+            Payment Type:</label>
+            <select id="dropdown">
+            <option>Paypal</option>
+            <option>MasterCard</option>
+            <option>Discover</option>
+        </form>
+    </body>
+</html>
